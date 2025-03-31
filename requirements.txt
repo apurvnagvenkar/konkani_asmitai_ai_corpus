@@ -1,0 +1,4 @@
+wikiextractor
+requests
+scikit-learn
+datasets

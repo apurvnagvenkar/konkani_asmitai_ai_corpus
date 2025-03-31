@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Token.txt
+hf_token.txt
+data/
 # C extensions
 *.so
 
