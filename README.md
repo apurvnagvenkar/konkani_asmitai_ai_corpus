@@ -8,7 +8,7 @@ This dataset is an **open-source effort** to create a **high-quality, multiscrip
 
 Konkani is written in following scripts:  
 - **Devanagari** – The official script for Konkani in Goa, widely used in literature.  
-- **Roman (Romi Konkani)** – Used in media, Tiatr, and religious writings, particularly by Goan Catholics.  
+- **Roman (Romi Konkani)** – Used in media, Tiatr, and religious writings.  
 - **Kannada** – Predominantly used in Karnataka by Konkani speakers.  
 - **Malayalam (Obsolete)**  – Historically used by Konkani speakers in Kerala.  
 - **Perso-Arabic (Obsolete)** – Used by Konkani-speaking Muslims, influenced by Urdu and Arabic vocabulary.  
@@ -101,6 +101,14 @@ from datasets import load_dataset
 
 dataset = load_dataset("anag007/asmitai_wiki_konkani_dataset")
 ```
+
+## How to Contribute  
+If you're a **researcher, student, or language enthusiast**, we invite you to:  
+- **Contribute Data** – Help expand the corpus by sharing openly available Konkani texts.  
+- **Improve Annotations** – Assist in refining dataset quality.  
+- **Collaborate on Models** – Use this dataset to build **state-of-the-art** Konkani AI models!  
+
+- For contributions, reach out to: apurv.research@gmail.com
 
 ## Acknowledgments
 
